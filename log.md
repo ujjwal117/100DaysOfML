@@ -1,5 +1,5 @@
-#100DaysOfML <h1> tag
+# 100DaysOfML <h1>
 
-##DAY0 25th JULY 2018 <h2> tag
+## DAY0 25th JULY 2018 <h2>
 
-### Learned how to use Github terminal for using with my Linux machine <h6> tag
+### Learned how to use Github terminal for using with my Linux machine <h6>

@@ -8,7 +8,7 @@ Learned about Neurons and ANN, excitation, inhabition.
 ### Thoughts :
 Learning new things was exciting i want more of them daily.
 
-## DAY-01 35th JULY 2018 <h3>
+## DAY-01 26th JULY 2018 <h3>
 ### Today's Progress :
 Today i learned math basics, which are prerequisities of learning ML  
 Linear algebra functions and basic algebra variables, co efficient etc

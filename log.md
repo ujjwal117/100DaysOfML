@@ -17,5 +17,5 @@ As i skipped this lesson in my past days feeling guilty for that
 and being happy about that i'm learning this thing and improving myself  
 i was before
 ### NOTES : 
-[ ML prereuisities](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)  
+[ ML prerequisities](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)  
 

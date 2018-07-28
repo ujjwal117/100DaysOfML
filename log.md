@@ -25,7 +25,7 @@ ___
 ## DAY-02 27th JULY 2018
 
 ### Today's Progress :
-Started with a course on edx for Esestial Mathematics for  ML will take some time to complete the  
+Started with a course on [edX](www.edx.org) for Esestial Mathematics for  ML will take some time to complete the  
 course currenly learning Algebra and Basic with Python 3
 ### Thoughts : 
 Learnig is a good havit as i learned, and i never studied this way before i want myself to fall in love

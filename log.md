@@ -22,7 +22,7 @@ i was before, and seeing better version of myself.
 [ ML prerequisities](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)  
 ___
 
-## DAY-02 26th JULY 2018
+## DAY-02 27th JULY 2018
 
 ### Today's Progress :
 Started with a course on edx for Esestial Mathematics for  ML will take some time to complete the  

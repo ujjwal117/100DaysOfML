@@ -32,4 +32,5 @@ Learnig is a good havit as i learned, and i never studied this way before i want
 with learning. I love reading articles i always do. But i never studied before like now i'm doing. Thanks to Siraj
 to lead us to the path.
 ### NOTES :
-The course i took right now is from [Microsoft Academy](https://academy.microsoft.com/en-us/tracks/artificial-intelligence).
+The course i took right now is from [Microsoft Academy](https://academy.microsoft.com/en-us/professional-program/) and it is called
+[Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/tracks/artificial-intelligence).

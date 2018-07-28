@@ -21,3 +21,15 @@ i was before, and seeing better version of myself.
 ### NOTES : 
 [ ML prerequisities](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)  
 ___
+
+## DAY-02 26th JULY 2018
+
+### Today's Progress :
+Started with a course on edx for Esestial Mathematics for  ML will take some time to complete the  
+course currenly learning Algebra and Basic with Python 3
+### Thoughts : 
+Learnig is a good havit as i learned, and i never studied this way before i want myself to fall in love
+with learning. I love reading articles i always do. But i never studied before like now i'm doing. Thanks to Siraj
+to lead us to the path.
+### NOTES :
+The course i took right now is from [Microsoft Academy](https://academy.microsoft.com/en-us/tracks/artificial-intelligence).

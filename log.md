@@ -41,7 +41,7 @@ Started a course on edX which is Introduction to Python for Data Science want to
 ### Thoughts :
 
 ___
-##DAY-04 29th JULY 2018
+## DAY-04 29th JULY 2018
 
 ### Today's Progress :
 Completed list and Function part of the Python course and looking forward to Methods

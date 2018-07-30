@@ -39,3 +39,12 @@ ___
 ### Today's Progress :
 Started a course on edX which is Introduction to Python for Data Science want to complete the course as soon as possible. Learned List manipulation in Python.
 ### Thoughts :
+
+___
+##DAY-04 29th JULY 2018
+
+### Today's Progress :
+Completed list and Function part of the Python course and looking forward to Methods
+Started ML Math linear algebra
+### Thoughts : 
+I want to complete as soon as I can.

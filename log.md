@@ -48,3 +48,13 @@ Completed list and Function part of the Python course and looking forward to Met
 Started ML Math linear algebra
 ### Thoughts : 
 I want to complete as soon as I can.
+
+___
+## DAY-05 30th JULY 2018
+
+### Today's Progress :
+Completed Methods in python and practiced Linear Algebra
+
+## DAY-06 31th JULY 2018
+
+### Today's Progress :

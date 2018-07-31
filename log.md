@@ -58,3 +58,4 @@ Completed Methods in python and practiced Linear Algebra
 ## DAY-06 31th JULY 2018
 
 ### Today's Progress :
+Learned Basics of Nmpy..

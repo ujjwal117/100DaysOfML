@@ -59,3 +59,11 @@ Completed Methods in python and practiced Linear Algebra
 
 ### Today's Progress :
 Learned Basics of Nmpy..
+___
+### ##STOPED FOR FEW DAYS AND FROM TODAY IT'S ON FULL SWING FOR LEARNING ML##
+___
+## DAY-07 8th Aug 2018
+### Today's Progress :
+Completed Basics of Numpy and played along with it
+### Thoughts: 
+It feels programming is hard for me but i want to learn it so i will. It will be slow but gradually i will complete the challange. 

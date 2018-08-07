@@ -62,7 +62,7 @@ Learned Basics of Nmpy..
 ___
 ### ##STOPED FOR FEW DAYS AND FROM TODAY IT'S ON FULL SWING FOR LEARNING ML##
 ___
-## DAY-07 8th Aug 2018
+## DAY-07 7th Aug 2018
 ### Today's Progress :
 Completed Basics of Numpy and played along with it
 ### Thoughts: 
